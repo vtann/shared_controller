@@ -1,0 +1,23 @@
+{
+  "aalto": {
+      "authkey": "aalto:123",
+      "dpid": [1, 2],
+      "nof_table": 10,
+      "offset_table": 10,
+      "vlans": [10,11,12]
+  },
+  "nokia": {
+      "authkey": "nokia:123",
+      "dpid": [1, 2],
+      "nof_table": 10,
+      "offset_table": 20,
+      "vlans": [110, 111, 112]
+  },
+  "vtt": {
+      "authkey": "vtt:123",
+      "dpid": [1, 2],
+      "nof_table": 10,
+      "offset_table": 30,
+      "vlans": [220, 211, 212]
+  }
+}
